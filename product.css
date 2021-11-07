@@ -32,12 +32,4 @@
 .cart-btn:hover {
   background-color: rgb(8, 86, 231);
 }
-span.new{
-    float: right;
-    padding-top: 16px;
-}
-span .new{
-        display: block;
-        float: none;
-    }
 
